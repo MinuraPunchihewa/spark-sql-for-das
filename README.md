@@ -1,5 +1,5 @@
 # Spark SQL Notebooks for Data Analysts
-A set of notebooks that introduce the use of Spark SQL on Databricks.
+This project includes set of Python notebooks that introduce the use of Spark SQL on Databricks.
 
 These notebooks were used as hands on exercises in the course Apache Spark (TM) SQL for Data Analysts by Databricks on Coursera. The course can be found here,
 <br>
